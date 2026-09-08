@@ -27,7 +27,7 @@ While testing it, various behaviors became unusually easy to observe:
 - audit characters detecting a problem but failing to constrain the final answer
 - multiple characters reinforcing the same mistaken premise
 
-So Nou-chan gradually became less of a “thinking assistant” and more of an **LLM behavior crash-test device**. OMUworks AI基本原則.md
+So Nou-chan gradually became less of a “thinking assistant” and more of an **LLM behavior crash-test device**
 
 ---
 
